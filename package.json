@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/culshaw/read-package-node-version-actions.git"
+    "url": "git+https://github.com/ChrisOgden/read-package-node-version-actions.git"
   },
   "keywords": [
     "actions",
     "node",
     "setup"
   ],
-  "author": "culshaw (culshaw@gmail.com)",
+  "author": "ChrisOgden <13042897+ChrisOgden@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.0.0"
